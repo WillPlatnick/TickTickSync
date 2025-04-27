@@ -26,10 +26,10 @@
 	"license": "GNU GPLv3",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/thesamim/TickTickSync.git"
+		"url": "https://github.com/WillPlatnick/TickTickSync.git"
 	},
 	"bugs": {
-		"url": "https://github.com/thesamim/TickTickSync/issues"
+		"url": "https://github.com/WillPlatnick/TickTickSync/issues"
 	},
 	"dependencies": {
 		"@popperjs/core": "^2.11.8",
